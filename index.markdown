@@ -8,6 +8,7 @@ layout: home
 This page allows you to flash Silicon Labs EFR32MG21 based Zigbee dongles directly from your Chrome-based browser.
 
 Supported devices:
+* SmartStick ZB
 * Sonoff ZBDongle-E
 * Easyiot ZB-GW04
 * SMLIGHT SLZB-07
@@ -31,6 +32,18 @@ You can select from these firmware:
 > Your browser does not support the WebSerial API. Try Chrome or Edge instead.
 {: #notSupported .hidden .serialErr }
 
+
+-----
+
+## SmartStick ZB
+HomeSeer SmartStick ZB
+![SmartStick ZB](https://homeseer.com/wp-content/uploads/2025/06/Zig-bee-1-768x538.png)
+<div class="Supported">
+    <nabucasa-zigbee-flasher manifest="./assets/manifests/SmartStick-ZB.json">
+        <span slot="button">Connect</span>
+    </nabucasa-zigbee-flasher>
+</div>
+<br>
 
 -----
 
