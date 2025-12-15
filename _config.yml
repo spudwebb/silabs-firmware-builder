@@ -22,8 +22,8 @@ title: Silabs Firmware Flasher
 description: >-
   Web based flasher for ZB-GW04 and ZBDongle-E. MultiPAN RCP firmware enables these devices to be used with Silabs Multiprotocol Addon
   in Home Assistant. Allow Zigbee and Thread to co-exist on the same dongle. Get ahead of the tech an experiment with Matter!
-domain: darkxst.github.io
-url: https://darkxst.github.io
+domain: spudwebb.github.io
+url: https://spudwebb.github.io
 baseurl: "/silabs-firmware-builder/" # the Github repo name
 
 
